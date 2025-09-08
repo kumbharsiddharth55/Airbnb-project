@@ -1,3 +1,6 @@
+# Project link 
+
+
 ![Stunning Paris Airbnb](http://sta.com.vn/UserFile/editor/images/IDEA/airbnb/sta-airbnb%20(1).png)
 
 # 🏠 Airbnb Paris Analysis
@@ -57,7 +60,6 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── README.md              # Project overview (this file)
  
 ```
-## 📌 Kaggel dataset (https://www.kaggle.com/code/siddharthkumbhar/airbnb-python-project/edit)
 ---
 
 ## ⚙️ How to Run
